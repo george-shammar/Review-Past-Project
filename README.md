@@ -1,6 +1,6 @@
 # Review-Past-Project
 
-- This is a TSE training project for the Microverse 2.0 program.
+- This is a project for the microverse admission trial
 
 ![screenShot](./test.png)
 
